@@ -1,11 +1,11 @@
-25/04/2019 23:36:27 devpinoyLogger Config File Loaded
-25/04/2019 23:36:28 devpinoyLogger OR File Loaded
-25/04/2019 23:36:40 devpinoyLogger Navigated to : http://www.zoho.com
-25/04/2019 23:36:44 devpinoyLogger Clicking on an Element : loginlink_XPATH
-25/04/2019 23:36:45 devpinoyLogger Typing in an Element : email_XPATH entered value as : anishtulsyan22@gmail.com
-25/04/2019 23:36:45 devpinoyLogger Typing in an Element : password_XPATH entered value as : AT*ani18
-25/04/2019 23:36:45 devpinoyLogger Clicking on an Element : signbtn_XPATH
-25/04/2019 23:37:21 devpinoyLogger Clicking on an Element : crmlink_XPATH
-25/04/2019 23:37:22 devpinoyLogger Clicking on an Element : accountstab_XPATH
-25/04/2019 23:37:24 devpinoyLogger Clicking on an Element : createaccountbtn_XPATH
-25/04/2019 23:37:25 devpinoyLogger Typing in an Element : accountname_ID entered value as : Raman
+28/04/2019 21:09:52 devpinoyLogger Config File Loaded
+28/04/2019 21:09:52 devpinoyLogger OR File Loaded
+28/04/2019 21:10:56 devpinoyLogger Navigated to : http://www.zoho.com
+28/04/2019 21:11:06 devpinoyLogger Clicking on an Element : loginlink_XPATH
+28/04/2019 21:11:07 devpinoyLogger Typing in an Element : email_XPATH entered value as : anishtulsyan22@gmail.com
+28/04/2019 21:11:08 devpinoyLogger Typing in an Element : password_XPATH entered value as : AT*ani18
+28/04/2019 21:11:08 devpinoyLogger Clicking on an Element : signbtn_XPATH
+28/04/2019 21:11:43 devpinoyLogger Clicking on an Element : crmlink_XPATH
+28/04/2019 21:11:43 devpinoyLogger Clicking on an Element : accountstab_XPATH
+28/04/2019 21:11:45 devpinoyLogger Clicking on an Element : createaccountbtn_XPATH
+28/04/2019 21:11:46 devpinoyLogger Typing in an Element : accountname_ID entered value as : Raman
